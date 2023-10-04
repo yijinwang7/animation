@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <p id="0" pinned="true" x="320.0 100.0"/>
+    <p id="1" x="520.0 100.0"/>
+    <p id="2" pinned="true" x="300.0 150.0"/>
+    <p id="3" x="260.0 150.0"/>
+    <s l0="200.0" p0="0" p1="1"/>
+    <s l0="40.0" p0="2" p1="3"/>
+</root>
